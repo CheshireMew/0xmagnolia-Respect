@@ -1,0 +1,15 @@
+# Licensing and rights notice
+
+This repository is a curated archive and index of posts originally published by **0xmagnolia**.
+
+## Third-party posts
+
+The archived posts, quotations, screenshots, and other third-party material remain the property of their respective authors and rightsholders. CheshireMew does not grant permission to reproduce, modify, redistribute, sublicense, or commercially use those materials beyond permission supplied by the original rightsholder or applicable law.
+
+## Original repository material
+
+Original indexes, annotations, organization, and other material authored by CheshireMew are licensed under the Creative Commons Attribution 4.0 International license. The full text is in LICENSE-ORIGINAL-MATERIAL.
+
+## Historical MIT file
+
+The former MIT file is preserved as LICENSE-MIT-HISTORICAL. It could only license rights controlled by its licensor; it never granted rights in posts or other material owned by third parties. The last revision that used it as the root notice was $magnoliaCutoff.
